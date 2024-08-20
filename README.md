@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jerry
-- 👀 I am studying in the University of Hong Kong, I am pursuing two bachelor degrees (computer engineering and finance)
+- 👀 I am studying in the University of Hong Kong, pursuing two bachelor degrees (computer engineering and finance)
 - 👀 I also have an exchange experience in centralesupélec, Paris
-- ⚡ Fun fact: I really like Spider Man and Iron Man
 - ⚡ Welcome to connect with me: s201943158@gmail.com
 
 <!---
