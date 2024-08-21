@@ -1,9 +1,5 @@
 - 👋 Hi, I’m Jerry
-- 👀 I am studying in the University of Hong Kong, pursuing two bachelor degrees (computer engineering and finance)
+- 👀 I am studying in the University of Hong Kong, pursuing two bachelor degrees (Computer Engineering & Finance)
 - 👀 I also have an exchange experience in centralesupélec, Paris
+- ✨ I am interesting in Computer Vision, Computer Graphic, Digital Humans, Facial Animation, Data Science
 - ⚡ Welcome to connect with me: s201943158@gmail.com
-
-<!---
-JerryTseee/JerryTseee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
