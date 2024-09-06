@@ -2,4 +2,4 @@
 - 👀 I am studying in the University of Hong Kong, pursuing two bachelor degrees (Computer Engineering & Finance)
 - 👀 I also have an undergraduate exchange experience in CentraleSupélec, Paris-Saclay University
 - ✨ I am interested in Computer Vision, Digital Humans, Machine Learning, Data Science
-- ⚡ Welcome to connect with me: s201943158@gmail.com
+- ⚡ Welcome to connect with me: s201943158@gmail.com or crazytse@connect.hku.hk
