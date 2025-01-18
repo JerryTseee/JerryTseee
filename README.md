@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jerry
 - 👀 I am studying at the University of Hong Kong, pursuing two bachelor degrees (Computer Engineering & Finance)
-- ✨ My research interests are computer graphics and animation, digital human, AR/VR
+- ✨ My research interests are computer graphics and character animation, digital human, AR/VR
 - ⚡ Welcome to connect with me: s201943158@gmail.com or crazytse@connect.hku.hk
