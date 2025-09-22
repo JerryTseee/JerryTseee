@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jerry
 - 👀 I am studying at the University of Hong Kong, pursuing BEng and BBA in Computer Engineering and Finance
-- ✨ I am interested in Generative AI & 3D Computer Vision & Quantitative Finance & AI for Investment
+- ✨ I am interested in Generative AI & Deep Learning & Character Animation & Financial Engineering
 - ⚡ Welcome to connect with me: s201943158@gmail.com or crazytse@connect.hku.hk
 
 
