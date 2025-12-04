@@ -2,5 +2,3 @@
 - ✨ I am interested in Artificial Intelligence & Deep Learning & 3D Vision & Graphics & Financial Technology
 - ⚡ Welcome to connect with me: s201943158@gmail.com or crazytse@connect.hku.hk
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryTseee&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
