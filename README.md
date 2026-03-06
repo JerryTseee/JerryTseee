@@ -10,4 +10,4 @@ I am interested in Artificial Intelligence & Machine Learning & Computer Vision 
 - Traveling around the world and taking photos
 - Drawing, fencing, basketball, guitar
 - English, Mandarin, Cantonese
-- Marvel films and Stranger Things
+- Marvel films
