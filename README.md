@@ -1,5 +1,5 @@
 # Hi there, I'm Wangpok Tse (Jerry) 👋
-I am interested in Artificial Intelligence & Machine Learning & Computer Vision & Graphics & Robotics & LLM & Financial Technology.  
+I am interested in Artificial Intelligence & Machine Learning & Computer Vision & Graphics & Robotics & LLM & Fintech.  
 Welcome to connect with me: s201943158@gmail.com or crazytse@connect.hku.hk
 
 ## 🎓 Education
