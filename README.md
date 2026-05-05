@@ -3,8 +3,8 @@ I am interested in Artificial Intelligence & Machine Learning & Computer Vision 
 Welcome to connect with me: s201943158@gmail.com or crazytse@connect.hku.hk
 
 ## 🎓 Education
-- The University of Hong Kong | BEng in Computer Engineering
-- The University of Hong Kong | BBA in Finance
+- The University of Hong Kong - BEng in Computer Engineering
+- The University of Hong Kong - BBA in Finance
 - Hong Kong Heung To Middle School
 
 ## ⚡ Life & Interests
