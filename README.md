@@ -1,5 +1,5 @@
 ## Hi there, I'm Wangpok Tse (Jerry) 👋
-- I am interested in Artificial Intelligence & Machine Learning & Computer Vision & Multimodal Generation & Robotics & LLM
+- I am interested in Generative AI & Machine Learning & 3D Computer Vision & Multimodal Generation & Robotics & LLM
 - Welcome to connect with me: s201943158@gmail.com or crazytse@connect.hku.hk
 
 ## 🎓 Education
