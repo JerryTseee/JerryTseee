@@ -5,7 +5,6 @@
 ## 🎓 Education
 - The University of Hong Kong - BEng in Computer Engineering
 - The University of Hong Kong - BBA in Finance
-- Hong Kong Heung To Middle School
 
 ## ⚡ Life & Interests
 - Traveling around the world and taking photos
