@@ -4,10 +4,3 @@
 ## 🎓 Education
 - The University of Hong Kong - BEng in Computer Engineering
 - The University of Hong Kong - BBA in Finance
-
-## ⚡ Life & Interests
-- Traveling around the world and taking photos
-- Drawing, fencing, basketball, guitar
-- English, Mandarin, Cantonese
-- Marvel films
-
