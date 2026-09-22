@@ -1,4 +1,4 @@
-## Hi there, I'm Wangpok Tse (Jerry) 👋
+## Hi there, I'm Wangpok Tse 👋
 - Welcome to connect with me: crazytse@connect.hku.hk
 
 ## 🎓 Education
